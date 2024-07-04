@@ -40,7 +40,7 @@ Enable permissions requested and follow prompts on the left hand side of RustDes
 
 #### Linux
 
-Please see below instructions to install for the various "flavours" of Linux (installers are on GitHub or available from a distro's repository).
+Please see below instructions to install for the various "flavours" of Linux (installers are [on GitHub ](https://github.com/rustdesk/rustdesk/releases/latest)or available from a distro's repository).
 
 ##### Debian Derivatives
 
